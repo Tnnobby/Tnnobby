@@ -1,5 +1,7 @@
 I am a new web developer looking to learn and improve. I started learning web development in elementary school when my dad gave me a page on our home server and had me build a website. Ever since I have never stopped learning new programming skills.
 
+Always looking for new projects, reach out if you have something I can help with!
+
 I tried college for a few years and it wasn't for me, I felt I was learning more and faster on my own and as a result I am largely self taught. Very fast learner and always eager to improve my skills where I can.
 
 - 📨Reach me at tnnobby@gmail.com or at @tnnobby on any social media, I rarely post but I will respond to DM's there</br>

@@ -1,4 +1,4 @@
-I am a new web developer looking to learn and improve. I started learning web development in elementary school when my dad gave me a page on our home server and had me build a website. Ever since I have never stopped learning new programming skills.
+Just another new Web Developer
 
 Always looking for new projects, reach out if you have something I can help with!
 

@@ -7,6 +7,7 @@ Always looking for new projects, reach out if you have something I can help with
 Skills:
 - TypeScript
 - React
-- React Native (Still learning)
+- React Native
 - Tailwind
 - Next.JS
+- Laravel
